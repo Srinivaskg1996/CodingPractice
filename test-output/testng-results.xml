@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-29T19:40:01 IST" name="Default suite" finished-at="2025-03-29T19:40:09 IST" duration-ms="7207">
+    <groups>
+    </groups>
+    <test started-at="2025-03-29T19:40:01 IST" name="Default test" finished-at="2025-03-29T19:40:09 IST" duration-ms="7207">
+      <class name="testNG.testNGfirstprogramme">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNG.testNGfirstprogramme@5dda768f]" started-at="2025-03-29T19:40:01 IST" name="setup" finished-at="2025-03-29T19:40:08 IST" duration-ms="6892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enablecheckbox()[pri:0, instance:testNG.testNGfirstprogramme@5dda768f]" started-at="2025-03-29T19:40:08 IST" name="enablecheckbox" finished-at="2025-03-29T19:40:09 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enablecheckbox -->
+        <test-method signature="findtitle()[pri:2, instance:testNG.testNGfirstprogramme@5dda768f]" started-at="2025-03-29T19:40:09 IST" name="findtitle" finished-at="2025-03-29T19:40:09 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findtitle -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testNG.testNGfirstprogramme@5dda768f]" started-at="2025-03-29T19:40:09 IST" name="closebrowser" finished-at="2025-03-29T19:40:09 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testNG.testNGfirstprogramme -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
